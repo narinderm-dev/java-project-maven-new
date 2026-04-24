@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Disney+ Boney - Watch Tv Shows Online</title>
+    <title>Disney+ Narinder - Watch Tv Shows Online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
